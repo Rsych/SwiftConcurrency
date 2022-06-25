@@ -11,6 +11,7 @@
 		71E1747C28674AEC00D88F07 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 71E1747B28674AEC00D88F07 /* ContentView.swift */; };
 		71E1747E28674AED00D88F07 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 71E1747D28674AED00D88F07 /* Assets.xcassets */; };
 		71E1748128674AED00D88F07 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 71E1748028674AED00D88F07 /* Preview Assets.xcassets */; };
+		71E1748828674B4C00D88F07 /* DoCatchTryThrows.swift in Sources */ = {isa = PBXBuildFile; fileRef = 71E1748728674B4C00D88F07 /* DoCatchTryThrows.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		71E1747B28674AEC00D88F07 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		71E1747D28674AED00D88F07 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		71E1748028674AED00D88F07 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		71E1748728674B4C00D88F07 /* DoCatchTryThrows.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DoCatchTryThrows.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				71E1747928674AEC00D88F07 /* SwiftConcurrencyApp.swift */,
 				71E1747B28674AEC00D88F07 /* ContentView.swift */,
+				71E1748728674B4C00D88F07 /* DoCatchTryThrows.swift */,
 				71E1747D28674AED00D88F07 /* Assets.xcassets */,
 				71E1747F28674AED00D88F07 /* Preview Content */,
 			);
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				71E1748828674B4C00D88F07 /* DoCatchTryThrows.swift in Sources */,
 				71E1747C28674AEC00D88F07 /* ContentView.swift in Sources */,
 				71E1747A28674AEC00D88F07 /* SwiftConcurrencyApp.swift in Sources */,
 			);
