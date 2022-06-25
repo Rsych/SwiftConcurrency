@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		717ABDCD2867507600BCF290 /* DownloadImgAsync.swift in Sources */ = {isa = PBXBuildFile; fileRef = 717ABDCC2867507600BCF290 /* DownloadImgAsync.swift */; };
 		71E1747A28674AEC00D88F07 /* SwiftConcurrencyApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 71E1747928674AEC00D88F07 /* SwiftConcurrencyApp.swift */; };
 		71E1747C28674AEC00D88F07 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 71E1747B28674AEC00D88F07 /* ContentView.swift */; };
 		71E1747E28674AED00D88F07 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 71E1747D28674AED00D88F07 /* Assets.xcassets */; };
@@ -15,6 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		717ABDCC2867507600BCF290 /* DownloadImgAsync.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DownloadImgAsync.swift; sourceTree = "<group>"; };
 		71E1747628674AEC00D88F07 /* SwiftConcurrency.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftConcurrency.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		71E1747928674AEC00D88F07 /* SwiftConcurrencyApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftConcurrencyApp.swift; sourceTree = "<group>"; };
 		71E1747B28674AEC00D88F07 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -56,6 +58,7 @@
 				71E1747928674AEC00D88F07 /* SwiftConcurrencyApp.swift */,
 				71E1747B28674AEC00D88F07 /* ContentView.swift */,
 				71E1748728674B4C00D88F07 /* DoCatchTryThrows.swift */,
+				717ABDCC2867507600BCF290 /* DownloadImgAsync.swift */,
 				71E1747D28674AED00D88F07 /* Assets.xcassets */,
 				71E1747F28674AED00D88F07 /* Preview Content */,
 			);
@@ -140,6 +143,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				717ABDCD2867507600BCF290 /* DownloadImgAsync.swift in Sources */,
 				71E1748828674B4C00D88F07 /* DoCatchTryThrows.swift in Sources */,
 				71E1747C28674AEC00D88F07 /* ContentView.swift in Sources */,
 				71E1747A28674AEC00D88F07 /* SwiftConcurrencyApp.swift in Sources */,
