@@ -71,6 +71,7 @@ struct AsyncAwaitBootcamp: View {
         .onAppear {
 //            vm.addTitle1()
 //            vm.addTitle2()
+            
             Task {
                 await vm.addAuthor1()
                 await vm.addSomething()
