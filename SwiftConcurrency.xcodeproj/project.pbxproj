@@ -14,6 +14,7 @@
 		71E1747E28674AED00D88F07 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 71E1747D28674AED00D88F07 /* Assets.xcassets */; };
 		71E1748128674AED00D88F07 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 71E1748028674AED00D88F07 /* Preview Assets.xcassets */; };
 		71E1748828674B4C00D88F07 /* DoCatchTryThrows.swift in Sources */ = {isa = PBXBuildFile; fileRef = 71E1748728674B4C00D88F07 /* DoCatchTryThrows.swift */; };
+		DB976DAA287DE0AF001136FC /* TaskBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = DB976DA9287DE0AF001136FC /* TaskBootcamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -25,6 +26,7 @@
 		71E1747D28674AED00D88F07 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		71E1748028674AED00D88F07 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		71E1748728674B4C00D88F07 /* DoCatchTryThrows.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DoCatchTryThrows.swift; sourceTree = "<group>"; };
+		DB976DA9287DE0AF001136FC /* TaskBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TaskBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +64,7 @@
 				71E1748728674B4C00D88F07 /* DoCatchTryThrows.swift */,
 				717ABDCC2867507600BCF290 /* DownloadImgAsync.swift */,
 				717ABDCE2867612900BCF290 /* AsyncAwaitBootcamp.swift */,
+				DB976DA9287DE0AF001136FC /* TaskBootcamp.swift */,
 				71E1747D28674AED00D88F07 /* Assets.xcassets */,
 				71E1747F28674AED00D88F07 /* Preview Content */,
 			);
@@ -149,6 +152,7 @@
 				717ABDCD2867507600BCF290 /* DownloadImgAsync.swift in Sources */,
 				71E1748828674B4C00D88F07 /* DoCatchTryThrows.swift in Sources */,
 				71E1747C28674AEC00D88F07 /* ContentView.swift in Sources */,
+				DB976DAA287DE0AF001136FC /* TaskBootcamp.swift in Sources */,
 				717ABDCF2867612900BCF290 /* AsyncAwaitBootcamp.swift in Sources */,
 				71E1747A28674AEC00D88F07 /* SwiftConcurrencyApp.swift in Sources */,
 			);
